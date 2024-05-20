@@ -35,15 +35,7 @@ export default function Table () {
                     <th>Last Name</th>
                 </tr>
                 </thead>
-                <tbody>
-                {users.map(user => (
-                    <tr key={user.id}>
-                        <td>{user.id}</td>
-                        <td>{user.firstName}</td>
-                        <td>{user.lastName}</td>
-                    </tr>
-                ))}
-                </tbody>
+
             </table>
             <section className="pagination">
                 <button onClick={''} disabled={''} className="first-page-btn">first</button>
