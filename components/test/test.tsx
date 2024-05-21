@@ -38,7 +38,7 @@ export default function Table () {
 
             </table>
             <section className="pagination">
-                <button onClick={''} disabled={''} className="first-page-btn">first</button>
+
                 <button className="previous-page-btn">previous</button>
                 <button className="next-page-btn">next</button>
                 <button className="last-page-btn">last</button>
