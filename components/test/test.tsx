@@ -40,7 +40,7 @@ export default function Table () {
             <section className="pagination">
 
 
-                <button className="next-page-btn">next</button>
+
                 <button className="last-page-btn">last</button>
             </section>
         </div>
