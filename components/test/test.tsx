@@ -41,7 +41,7 @@ export default function Table () {
 
 
 
-                <button className="last-page-btn">last</button>
+
             </section>
         </div>
     );
