@@ -31,7 +31,7 @@ export default function Table () {
                 <thead>
                 <tr>
                     <th>ID</th>
-                    <th>First Name</th>
+
                     <th>Last Name</th>
                 </tr>
                 </thead>
