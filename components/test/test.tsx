@@ -32,7 +32,7 @@ export default function Table () {
                 <tr>
                     <th>ID</th>
 
-                    <th>Last Name</th>
+
                 </tr>
                 </thead>
 
