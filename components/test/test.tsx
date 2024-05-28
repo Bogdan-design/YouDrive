@@ -30,7 +30,7 @@ export default function Table () {
             <table className="table">
                 <thead>
                 <tr>
-                    <th>ID</th>
+
 
 
                 </tr>
