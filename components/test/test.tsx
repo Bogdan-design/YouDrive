@@ -29,11 +29,7 @@ export default function Table () {
         <div>
             <table className="table">
                 <thead>
-                <tr>
 
-
-
-                </tr>
                 </thead>
 
             </table>
