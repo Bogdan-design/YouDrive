@@ -28,9 +28,7 @@ export default function Table () {
     return (
         <div>
             <table className="table">
-                <thead>
 
-                </thead>
 
             </table>
             <section className="pagination">
