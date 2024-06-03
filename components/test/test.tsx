@@ -27,10 +27,7 @@ export default function Table () {
 
     return (
         <div>
-            <table className="table">
 
-
-            </table>
             <section className="pagination">
 
 
