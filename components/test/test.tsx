@@ -27,13 +27,6 @@ export default function Table () {
 
     return (
         <div>
-
-            <section className="pagination">
-
-
-
-
-            </section>
         </div>
     );
 };
