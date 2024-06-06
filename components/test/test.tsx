@@ -25,8 +25,5 @@ export default function Table () {
         fetchData()
     }, []);
 
-    return (
-        <div>
-        </div>
-    );
+    return
 };
