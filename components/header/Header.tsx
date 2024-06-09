@@ -3,7 +3,10 @@ import React from 'react';
 const Header = () => {
     return (
         <section>
-            Fixer
+            <h1>
+
+                Fixer
+            </h1>
         </section>
     );
 };
