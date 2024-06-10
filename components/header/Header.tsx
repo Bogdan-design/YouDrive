@@ -7,6 +7,10 @@ const Header = () => {
 
                 Fixer
             </h1>
+            Transport
+            Budowa
+            Allegro
+            Shopify
         </section>
     );
 };
