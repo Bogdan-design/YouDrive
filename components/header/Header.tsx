@@ -7,10 +7,10 @@ const Header = () => {
 
                 Fixer
             </h1>
-            Transport
-            Budowa
-            Allegro
-            Shopify
+            <div>Transport</div>
+            <div>Budowa</div>
+            <div>Allegro</div>
+            <div>Shopify</div>
         </section>
     );
 };
