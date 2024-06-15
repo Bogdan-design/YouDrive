@@ -8,7 +8,7 @@ const Header = () => {
                 Fixer
             </h1>
             <button>Transport</button>
-            <div>Budowa</div>
+            <button>Budowa</button>
             <div>Allegro</div>
             <div>Shopify</div>
         </section>
