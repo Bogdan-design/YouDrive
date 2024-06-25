@@ -10,7 +10,7 @@ const Header = () => {
             <button>Transport</button>
             <button>Budowa</button>
             <button>Allegro</button>
-            <div>Shopify</div>
+            <button>Shopify</button>
         </section>
     );
 };
