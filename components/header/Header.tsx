@@ -12,6 +12,7 @@ const Header = () => {
             <button>Allegro</button>
             <button>Shopify</button>
             <button>Shopify</button>
+            <button>Shopify</button>
         </section>
     );
 };
