@@ -14,6 +14,7 @@ const Header = () => {
             <button>Shopify</button>
             <button>Shopify</button>
             <button>Shopify</button>
+            <button>Shopify</button>
         </section>
     );
 };
