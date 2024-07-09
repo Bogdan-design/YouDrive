@@ -11,8 +11,6 @@ const Header = () => {
             <button>Budowa</button>
             <button>Allegro</button>
             <button>Shopify</button>
-            <button>Shopify</button>
-
         </section>
     );
 };
