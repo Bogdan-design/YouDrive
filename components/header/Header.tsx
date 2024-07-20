@@ -10,10 +10,6 @@ const Header = () => {
             <button>Transport</button>
             <button>Budowa</button>
             <button>Allegro</button>
-            <button>Allegro</button>
-
-
-
         </section>
     );
 };
