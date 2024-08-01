@@ -11,6 +11,7 @@ const Header = () => {
             <button>Budowa</button>
             <button>Allegro</button>
             <button>Allegro</button>
+            <button>Allegro</button>
 
         </section>
     );
